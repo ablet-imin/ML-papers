@@ -7,6 +7,7 @@ collection of papers
 
 ## Papers  
 
+* [Convolutional Neural Networks with Event Images for Pileup Mitigation in ETmiss reconstruction with the ATLAS Detector](https://cds.cern.ch/record/2684070/files/ATL-PHYS-PUB-2019-028.pdf)
 * [Random Features for Large-Scale Kernel Machines](https://people.eecs.berkeley.edu/~brecht/papers/07.rah.rec.nips.pdf)
 * [Learning Uncertainties the Frequentist Way: Calibration and Correlation in High Energy Physics](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.129.082001)  
 * [A Lightweight Region Proposal Network for Task Specific Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8904949)  
