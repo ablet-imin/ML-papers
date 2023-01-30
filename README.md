@@ -8,6 +8,7 @@ collection of papers
 ## Papers  
 
 * [Random Features for Large-Scale Kernel Machines](https://people.eecs.berkeley.edu/~brecht/papers/07.rah.rec.nips.pdf)
+* [Learning Uncertainties the Frequentist Way](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.129.082001)
 
 
 
