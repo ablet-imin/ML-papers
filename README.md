@@ -12,5 +12,5 @@ collection of papers
 
 
 ## Talks:
-* [Learning Uncertainties the Frequentist Way](https://indico.cern.ch/event/1203477/attachments/2581375/4452400/jthaler_2023_01_25_PhyStat_Uncertainty.pdf)
+* [Learning Uncertainties the Frequentist Way](https://indico.cern.ch/event/1203477/attachments/2581375/4452400/jthaler_2023_01_25_PhyStat_Uncertainty.pdf)--
   [Video record](https://indico.cern.ch/event/1203477/attachments/2581375/4457167/video2937238926.mp4)
