@@ -12,6 +12,8 @@ collection of papers
 * [Learning Uncertainties the Frequentist Way: Calibration and Correlation in High Energy Physics](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.129.082001)  
 * [A Lightweight Region Proposal Network for Task Specific Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8904949)  
 * [Deep learning techniques for energy clustering in the CMS ECAL](https://arxiv.org/pdf/2204.10277.pdf)
+* [Towards a Computer Vision Particle Flow](https://arxiv.org/abs/2003.08863)
+* [Reconstructing particles in jets using set transformer and hypergraph prediction networks](https://arxiv.org/abs/2212.01328)
 
 
 
