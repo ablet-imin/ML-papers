@@ -2,7 +2,7 @@
 collection of papers
 
 ## Awsome githup  
-
+* [HEPML-LivingReview](https://iml-wg.github.io/HEPML-LivingReview/)
 * [imbalanced-regression](https://github.com/YyzHarry/imbalanced-regression/blob/main/imdb-wiki-dir/datasets.py)
 
 ## Papers  
